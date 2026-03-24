@@ -23,7 +23,7 @@ The bot will:
 - Generate 3 keywords/tags
 - Send the result back in Discord
 
-To try it, join the discord server ![here](https://discord.gg/bhJ7QHe3)
+To try it, join the discord server [here](https://discord.gg/bhJ7QHe3)
 
 
 #### Demo
@@ -47,7 +47,7 @@ The `/summary` command summarizes the recent captions generated for that user.
 ![Summary Demo](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/main/static/demo3-summary.gif)
 
 
-To try it, join the discord server ![here](https://discord.gg/bhJ7QHe3)
+To try it, join the discord server [here](https://discord.gg/bhJ7QHe3)
 
 
 ---
@@ -168,6 +168,6 @@ python test.py
 ```
 ---
 
-To try it, join the discord server ![here](https://discord.gg/bhJ7QHe3)
+To try it, join the discord server [here](https://discord.gg/bhJ7QHe3)
 
 
