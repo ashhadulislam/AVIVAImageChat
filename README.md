@@ -41,7 +41,7 @@ If the same image is uploaded again, the cached result is returned instead of ca
 
 ### 4. Summary Command
 The `/summary` command summarizes the recent captions generated for that user.
-
+![Summary Demo](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/main/demo3-summary.gif)
 ---
 
 ## Tech Stack
