@@ -31,6 +31,8 @@ The bot will:
 The bot keeps the **last 3 interactions per user** in memory.  
 This can be used for lightweight personalization and summarization.
 
+![Message History](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/main/msgHistory.png)
+
 ### 3. Basic Caching
 The bot computes an **MD5 hash** of each uploaded image.  
 If the same image is uploaded again, the cached result is returned instead of calling the model again.
