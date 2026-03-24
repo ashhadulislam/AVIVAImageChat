@@ -23,6 +23,10 @@ The bot will:
 - Generate 3 keywords/tags
 - Send the result back in Discord
 
+#### Demo
+
+![Demo](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/main/demo1.gif)
+
 ### 2. Message History Awareness
 The bot keeps the **last 3 interactions per user** in memory.  
 This can be used for lightweight personalization and summarization.
