@@ -23,6 +23,9 @@ The bot will:
 - Generate 3 keywords/tags
 - Send the result back in Discord
 
+To try it, join the discord server ![here](https://discord.gg/bhJ7QHe3)
+
+
 #### Demo
 
 ![Demo](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/main/static/demo1.gif)
@@ -42,6 +45,10 @@ If the same image is uploaded again, the cached result is returned instead of ca
 ### 4. Summary Command
 The `/summary` command summarizes the recent captions generated for that user.
 ![Summary Demo](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/main/static/demo3-summary.gif)
+
+
+To try it, join the discord server ![here](https://discord.gg/bhJ7QHe3)
+
 
 ---
 
@@ -160,5 +167,7 @@ Run the bot locally using:
 python test.py
 ```
 ---
+
+To try it, join the discord server ![here](https://discord.gg/bhJ7QHe3)
 
 
