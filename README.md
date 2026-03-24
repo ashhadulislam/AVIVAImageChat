@@ -37,6 +37,8 @@ This can be used for lightweight personalization and summarization.
 The bot computes an **MD5 hash** of each uploaded image.  
 If the same image is uploaded again, the cached result is returned instead of calling the model again.
 
+![Caching Demo](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/main/demo2-hash.gif)
+
 ### 4. Summary Command
 The `/summary` command summarizes the recent captions generated for that user.
 
