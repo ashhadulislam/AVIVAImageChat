@@ -25,23 +25,23 @@ The bot will:
 
 #### Demo
 
-![Demo](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/main/demo1.gif)
+![Demo](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/main/static/demo1.gif)
 
 ### 2. Message History Awareness
 The bot keeps the **last 3 interactions per user** in memory.  
 This can be used for lightweight personalization and summarization.
 
-![Message History](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/main/msgHistory.png)
+![Message History](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/main/static/msgHistory.png)
 
 ### 3. Basic Caching
 The bot computes an **MD5 hash** of each uploaded image.  
 If the same image is uploaded again, the cached result is returned instead of calling the model again. Speeds up around 2X.
 
-![Caching Demo](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/main/demo2-hash.gif)
+![Caching Demo](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/main/static/demo2-hash.gif)
 
 ### 4. Summary Command
 The `/summary` command summarizes the recent captions generated for that user.
-![Summary Demo](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/main/demo3-summary.gif)
+![Summary Demo](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/main/static/demo3-summary.gif)
 
 ---
 
