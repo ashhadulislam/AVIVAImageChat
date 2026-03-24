@@ -119,9 +119,11 @@ python3 -m pip install -U discord.py
 2. Select:
    - `bot`
    - `applications.commands`
+![Scopes](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/blob/main/static/Scopes.png)
 3. Under **Bot Permissions**, select:
-   - `Send Messages`
+   - `Send Messages`   
 4. Copy the generated URL
+![URL](https://raw.githubusercontent.com/ashhadulislam/AVIVAImageChat/blob/main/static/Bot_URL.png)
 5. Open it in your browser
 6. Select the Discord server to add the bot
 
